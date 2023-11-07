@@ -1,3 +1,3 @@
 # exemple-application-ld-json
 
-Apenas um exemplo para possiveis estudos futuros
+Apenas um exemplo para estudo.
